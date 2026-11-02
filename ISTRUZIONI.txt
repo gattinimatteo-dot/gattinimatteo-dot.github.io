@@ -1,0 +1,6 @@
+Portfolio Matteo Gattini — GitHub Pages
+Carica direttamente nella radice del repository i contenuti dello ZIP.
+Impostazioni → Pages → Deploy from a branch → main /(root).
+index.html deve essere in radice.
+Per la versione offline apri il file HTML autonomo separato.
+I dati delle schermate demo sono simulati.
